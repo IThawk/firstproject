@@ -3,6 +3,7 @@
     "displayName": "firstProject",
     "description": "firstProject",
     "version": "0.0.1",
+    "publisher": "IThawk",
     "engines": {
         "vscode": "^1.29.0"
     },
@@ -34,5 +35,10 @@
         "tslint": "^5.8.0",
         "@types/node": "^8.10.25",
         "@types/mocha": "^2.2.42"
+    },
+    "dependencies": {
+        "compile": "0.0.2",
+        "npm": "^6.5.0",
+        "run": "^1.4.0"
     }
 }
